@@ -1,4 +1,4 @@
-# NoteVault - Flask Notes-Taking Web Application
+# NoteVault - Notes-Taking Web Application using Flask
 
 NoteVault is a Flask-based web application designed to simplify note-taking and organization. It allows users to create an account, log in, and manage their notes in a secure and intuitive manner.
 
