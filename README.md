@@ -20,7 +20,7 @@ NoteVault is a Flask-based web application designed to simplify note-taking and 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/informsarfu/NoteVault-A-Secure-Notes-Taking-Web-App.git'
-2. Navigate to the project directory: `cd notevault`
+2. Navigate to the project directory: `cd NoteVault-A-Secure-Notes-Taking-Web-App`
 3. Install the dependencies: `pip install flask, Jinja, SQLAlchemy, flask-sqlalchemy`
 4. Run the application: `python main.py`
 5. Access the application in your web browser at `http://localhost:5000`.
@@ -31,7 +31,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to modify and use the code according to your needs. Refer to the LICENSE file for more details.
+This project is licensed under the [Apache License 2.0](LICENSE). Feel free to modify and use the code according to your needs. Refer to the LICENSE file for more details.
 
 ## Acknowledgements
 
