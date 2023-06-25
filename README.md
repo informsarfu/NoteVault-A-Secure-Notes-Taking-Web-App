@@ -27,7 +27,7 @@ NoteVault is a Flask-based web application designed to simplify note-taking and 
 
 ## Project Webpage
 
-<img width="960" alt="image" src="https://github.com/informsarfu/NoteVault-A-Secure-Notes-Taking-Web-App/assets/78136256/a00618a5-c098-49b4-b0e2-575d425397eb">
+<img width="960" alt="Screenshot 2023-06-25 132313" src="https://github.com/informsarfu/NoteVault-A-Secure-Notes-Taking-Web-App/assets/78136256/08018db9-5c30-4eaf-8882-789ec2ff14fd">
 
 
 ## Contributing
