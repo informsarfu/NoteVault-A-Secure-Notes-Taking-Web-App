@@ -25,6 +25,11 @@ NoteVault is a Flask-based web application designed to simplify note-taking and 
 4. Run the application: `python main.py`
 5. Access the application in your web browser at `http://localhost:5000`.
 
+## Project Webpage
+
+<img width="960" alt="image" src="https://github.com/informsarfu/NoteVault-A-Secure-Notes-Taking-Web-App/assets/78136256/a00618a5-c098-49b4-b0e2-575d425397eb">
+
+
 ## Contributing
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Make sure to follow the existing code style and include relevant tests with your contributions.
